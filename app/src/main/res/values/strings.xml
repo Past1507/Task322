@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_3">3</string>
+    <string name="btn_4">4</string>
+    <string name="btn_5">5</string>
+    <string name="btn_6">6</string>
+    <string name="btn_7">7</string>
+    <string name="btn_8">8</string>
+    <string name="btn_9">9</string>
+    <string name="text_point">.</string>
+    <string name="text_0">0</string>
+    <string name="text_c">C</string>
+    <string name="text_plus">+</string>
+    <string name="text_minus">-</string>
+    <string name="text_multiplication">x</string>
+    <string name="text_division">/</string>
+    <string name="text_equal">=</string>
+    <string name="text_change">+/-</string>
+    <string name="text_percent">%</string>
+    <string name="text_factorial">!</string>
+    <string name="text_1x">1/x</string>
+    <string name="text_e">e</string>
+    <string name="text_log">log</string>
+    <string name="text_sin">sin</string>
+    <string name="text_cos">cos</string>
+    <string name="text_sinh">sinh</string>
+    <string name="text_tan">tan</string>
+    <string name="text_cosh">cosh</string>
+    <string name="text_tanh">tanh</string>
+    <string name="text_x2">x&#94;2</string>
+    <string name="text_sqrt">&#8730;</string>
+    <string name="text_10x">10&#94;x</string>
+    <string name="text_cot">cot</string>
+    <string name="text_sec">sec</string>
+    <string name="text_csc">csc</string>
+    <string name="text_engineer">engineer view</string>
+    <string name="text_ordinary">ordinary view</string>
+</resources>
